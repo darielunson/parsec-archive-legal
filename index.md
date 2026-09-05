@@ -1,8 +1,8 @@
-# Privacy Policy for Duniverse Wiki
+# Privacy Policy for The 12 Parsec Archive
 
-**Effective date:** August 31, 2026
+**Effective date:** September 6, 2026
 
-Duniverse Wiki ("the app," "we," "us") is developed by Gotham Forge. This policy explains what information the app collects, how it's used, and your choices. It applies only to Duniverse Wiki, not to any third-party site you may reach through links in the app.
+The 12 Parsec Archive ("the app," "we," "us") is developed by Gotham Forge. This policy explains what information the app collects, how it's used, and your choices. It applies only to The 12 Parsec Archive, not to any third-party site you may reach through links in the app.
 
 ## Information we collect
 
